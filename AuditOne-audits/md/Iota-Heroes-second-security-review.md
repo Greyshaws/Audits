@@ -1,6 +1,6 @@
 | Repository | Review Commit Hash | 
 | -------- | -------- |
-| [IOTA-Heroes](https://github.com/Crelde/lOTA-Heroes-Contracts)     | 9ef930a70aa555dacf0f8d402396964ff3178d73 |
+| [IOTA-Heroes](https://github.com/Crelde/lOTA-Heroes-Contracts)     | ff84cafbacf3664ae0ce958ea408bedbf6e53705 |
 
 ---
 
