@@ -1,0 +1,5 @@
+* [The $7.5 Million Flash Loan Unveiled: Jimbo’s Protocol](https://www.auditone.io/blog-posts/the-7-5-million-flash-loan-unveiled-analyzing-jimbos-protocol-attack)
+* [Can AI replace human auditors?](https://www.auditone.io/blog-posts/can-ai-replace-human-auditors)
+* [Curve Pool Exploits - $24M Heist and Multiple DeFi Projects Losses. What happened?](https://www.auditone.io/blog-posts/curve-pool-exploits-24m-heist-and-multiple-defi-projects-losses-what-happened)
+* [Automated Market Makers (AMMs): A Game-Changer for Decentralized Finance](https://graciouss.hashnode.dev/automated-market-makers-amms-a-game-changer-for-decentralized-finance)
+* [Twitter post](https://x.com/Greyshaws/status/1618183961729183744?s=20)

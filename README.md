@@ -1,1 +1,1 @@
-# Audits
+Gracious' Smart Contract Security Audits, Publications & Triaged Reports.
