@@ -1,3 +1,4 @@
+* [KyberSwap Exploit: A Comprehensive Breakdown](https://www.auditone.io/blog-posts/kyberswap-exploit-a-comprehensive-breakdown)
 * [The $7.5 Million Flash Loan Unveiled: Jimbo’s Protocol](https://www.auditone.io/blog-posts/the-7-5-million-flash-loan-unveiled-analyzing-jimbos-protocol-attack)
 * [Can AI replace human auditors?](https://www.auditone.io/blog-posts/can-ai-replace-human-auditors)
 * [Curve Pool Exploits - $24M Heist and Multiple DeFi Projects Losses. What happened?](https://www.auditone.io/blog-posts/curve-pool-exploits-24m-heist-and-multiple-defi-projects-losses-what-happened)
