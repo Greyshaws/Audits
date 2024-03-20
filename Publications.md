@@ -1,3 +1,4 @@
+* [Safereum Exit Scam: A Detailed Analysis](https://medium.com/@gracious0901/safereum-exit-scam-a-detailed-analysis-714270b357f4)
 * [KyberSwap Exploit: A Comprehensive Breakdown](https://www.auditone.io/blog-posts/kyberswap-exploit-a-comprehensive-breakdown)
 * [The $7.5 Million Flash Loan Unveiled: Jimbo’s Protocol](https://www.auditone.io/blog-posts/the-7-5-million-flash-loan-unveiled-analyzing-jimbos-protocol-attack)
 * [Can AI replace human auditors?](https://www.auditone.io/blog-posts/can-ai-replace-human-auditors)
